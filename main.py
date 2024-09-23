@@ -1,6 +1,5 @@
 import os
 import logging
-import time
 from aiogram import Bot, Dispatcher, executor, types
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMarkup, InlineKeyboardButton
 from googletrans import Translator
