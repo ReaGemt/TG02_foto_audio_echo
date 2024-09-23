@@ -10,7 +10,7 @@ from gtts import gTTS
 logging.basicConfig(level=logging.INFO)
 
 # Токен вашего бота
-API_TOKEN = '8186888870:AAF4WaEsgE3qUxN4nPgOQxzol0AouJqHSw8'
+API_TOKEN = 'YOUR_BOT_TOKEN'
 
 # Инициализация бота и диспетчера
 bot = Bot(token=API_TOKEN)
